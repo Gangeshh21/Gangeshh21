@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Gangesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
 # 👋 Hi, I'm Gangesh Kumar
 
-### Software Engineer | AI Engineer | Blockchain Developer | Backend Developer | Cloud & DevOps Enthusiast
+### Software Engineer | Backend Developer | AI Engineer | Blockchain Developer | Cloud & DevOps Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+Python;AI+%7C+Blockchain+%7C+Cloud+Computing;Backend+Developer;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+Python;AI+%7C+Blockchain+%7C+Cloud+Computing;Building+Scalable+Applications;Always+Learning+New+Technologies+🚀"/>
 
 <br>
 
@@ -22,15 +24,15 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/gangesh-kumar-1601702b8/">
+<a href="https://www.linkedin.com/in/gangesh-kumar-1601702b8/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/gangeshhh/">
+<a href="https://leetcode.com/u/gangeshhh/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/gangeshf52e">
+<a href="https://www.geeksforgeeks.org/profile/gangeshf52e/" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
@@ -46,88 +48,74 @@
 
 ```yaml
 Name        : Gangesh Kumar
-Education   : B.Tech - Computer Science & Design
-Role        : Software Engineering Aspirant
-Interests   : AI • Blockchain • Backend • Cloud • DevOps
+Degree      : B.Tech - Computer Science & Design
+Role        : Software Engineering Student
+Focus       : Backend • AI • Blockchain • Cloud • DevOps
 Location    : India
 ```
 
 ### 🚀 A Little About Me
 
-- 🎓 Final Year Computer Science Student
+- 🎓 Final Year B.Tech Student in Computer Science & Design
 - 💻 Passionate about Software Engineering and Backend Development
-- 🤖 Building AI-powered applications using LLMs, RAG and LangChain
-- ⛓️ Developing Blockchain applications using Solidity & Hardhat
-- ☁️ Learning Cloud Computing, Docker, Kubernetes & Terraform
-- 🌱 Always exploring new technologies
+- 🤖 Building AI applications using **LLMs, LangChain, RAG & Gemini API**
+- ⛓ Developing Blockchain applications using **Solidity, Hardhat & Ganache**
+- ☁ Exploring Cloud Computing and DevOps
+- 📚 Consistently improving Data Structures & Algorithms
+- 🌱 Currently learning Kubernetes, Terraform, Jenkins and System Design
 - 🎯 Looking for Software Engineering Internship / Full-Time Opportunities
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql,postgres"/>
 </p>
 
 ---
 
-## ⚙️ Backend Development
+## ⚙ Backend Development
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs"/>
 </p>
+
+**Technologies**
+
+- Spring Boot
+- REST APIs
+- FastAPI
+- JWT Authentication
+- Microservices
 
 ---
 
 ## 🎨 Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
 </p>
 
 ---
 
 ## 🤖 Artificial Intelligence
 
-- TensorFlow
 - Machine Learning
 - Deep Learning
+- TensorFlow
 - LangChain
 - ChromaDB
 - Retrieval-Augmented Generation (RAG)
 - Gemini API
 - Prompt Engineering
+- Vector Databases
 
 ---
 
-## ⛓️ Blockchain
+## ⛓ Blockchain
 
 - Solidity
 - Ethereum
@@ -139,52 +127,64 @@ Location    : India
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁ Cloud & DevOps
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,terraform,jenkins,git,github,githubactions"/>
 </p>
 
-Currently Learning:
+### Technologies
 
+- Docker
+- AWS
 - Kubernetes
 - Terraform
-- CI/CD
-- Microservices
-- System Design
+- Jenkins
+- GitHub Actions
+- CI/CD Pipelines
 
 ---
 
-## 🛠️ Tools
+## 🗄 Databases
 
-- VS Code
-- IntelliJ IDEA
-- Postman
-- Git
-- GitHub
-- Docker Desktop
-````markdown
+- MySQL
+- PostgreSQL
+- ChromaDB
+
+---
+
+## 🛠 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Kubernetes
+- Terraform
+- Jenkins
+- System Design
+- Distributed Systems
+- Advanced Spring Boot
+- Agentic AI
+---
+
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
-<td width="50%">
 
-### 🤖 AI Research Assistant
+<td width="50%" valign="top">
 
-A Retrieval-Augmented Generation (RAG) application that allows users to upload PDFs and ask questions using Large Language Models.
+## 🤖 AI Research Assistant
 
-**Tech Stack**
+**RAG-powered AI Assistant** that allows users to upload PDF documents and ask natural language questions using Large Language Models.
+
+### 🔹 Tech Stack
 
 - Python
 - FastAPI
@@ -194,71 +194,74 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload P
 - Gemini API
 - Docker
 
-⭐ Features
+### ⭐ Highlights
 
-- PDF Upload
-- Semantic Search
-- Vector Database
-- AI-powered Question Answering
-- Modern UI
+- 📄 PDF Upload
+- 🔍 Semantic Search
+- 🧠 RAG Pipeline
+- ⚡ FastAPI Backend
+- 🎨 React Frontend
+- 🐳 Dockerized Deployment
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏡 Blockchain Land Registry
+## 🏡 Blockchain Land Registry
 
-A secure blockchain-based land registry using Multi-Authority Chameleon Hashing for controlled redaction and tamper-evident record management.
+Secure blockchain-based land registry using **Multi-Authority Chameleon Hashing** for controlled modifications with tamper evidence.
 
-**Tech Stack**
+### 🔹 Tech Stack
 
 - Solidity
-- Hardhat
 - Ethereum
+- Hardhat
 - Ganache
 - JavaScript
 
-⭐ Features
+### ⭐ Highlights
 
-- Land Registration
-- Ownership Transfer
-- Smart Contracts
-- Multi-Authority Approval
-- Secure Record Management
+- ⛓ Smart Contracts
+- 🏠 Land Registration
+- 🔐 Ownership Transfer
+- 👨‍⚖ Multi-Authority Approval
+- 🛡 Tamper-Evident Records
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 😴 Drowsiness Detection System
+<td width="50%" valign="top">
 
-Real-time AI-based driver drowsiness detection using Computer Vision and Deep Learning.
+## 😴 Drowsiness Detection System
 
-**Tech Stack**
+Real-time driver drowsiness detection using Computer Vision and Deep Learning.
+
+### 🔹 Tech Stack
 
 - Python
 - TensorFlow
-- CNN
 - OpenCV
+- CNN
 
-⭐ Features
+### ⭐ Highlights
 
-- Live Webcam Detection
-- Eye State Classification
-- Alert System
-- Real-time Processing
+- 📹 Webcam Detection
+- 👁 Eye State Recognition
+- 🚨 Alert Generation
+- ⚡ Real-Time Processing
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 Cloud Native Expense Tracker
+## 💰 Cloud Native Expense Tracker
 
-Backend application for secure expense management using Spring Boot with JWT Authentication and containerized deployment.
+Secure backend application for expense management built using Spring Boot and modern cloud technologies.
 
-**Tech Stack**
+### 🔹 Tech Stack
 
 - Java
 - Spring Boot
@@ -267,16 +270,18 @@ Backend application for secure expense management using Spring Boot with JWT Aut
 - Kafka
 - AWS
 
-⭐ Features
+### ⭐ Highlights
 
-- JWT Authentication
-- REST APIs
-- Docker Support
-- Kafka Integration
-- Cloud Ready
+- 🔐 JWT Authentication
+- 🌐 REST APIs
+- 🐳 Docker Support
+- ☁ Cloud Ready
+- ⚡ Kafka Integration
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -285,9 +290,9 @@ Backend application for secure expense management using Spring Boot with JWT Aut
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gangeshh21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gangeshh21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangeshh21&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangeshh21&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -307,7 +312,7 @@ Backend application for secure expense management using Spring Boot with JWT Aut
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangeshh21&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangeshh21&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -327,7 +332,7 @@ Backend application for secure expense management using Spring Boot with JWT Aut
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gangeshh21&theme=tokyonight&margin-w=10&margin-h=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gangeshh21&theme=tokyonight&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </div>
 
@@ -338,9 +343,9 @@ Backend application for secure expense management using Spring Boot with JWT Aut
 <div align="center">
 
 | Platform | Profile |
-|----------|---------|
+|-----------|---------|
 | 💛 **LeetCode** | https://leetcode.com/u/gangeshhh/ |
-| 💚 **GeeksforGeeks** | https://www.geeksforgeeks.org/profile/gangeshf52e |
+| 💚 **GeeksforGeeks** | https://www.geeksforgeeks.org/profile/gangeshf52e/ |
 | 💼 **LinkedIn** | https://www.linkedin.com/in/gangesh-kumar-1601702b8/ |
 | 🐙 **GitHub** | https://github.com/Gangeshh21 |
 
@@ -348,14 +353,20 @@ Backend application for secure expense management using Spring Boot with JWT Aut
 
 ---
 
-# 📚 Core Areas
+# 💡 Technical Expertise
 
 ```text
+✔ Software Engineering
+
 ✔ Backend Development
+
+✔ Java & Spring Boot
 
 ✔ REST API Development
 
 ✔ Artificial Intelligence
+
+✔ Generative AI
 
 ✔ Machine Learning
 
@@ -367,26 +378,32 @@ Backend application for secure expense management using Spring Boot with JWT Aut
 
 ✔ Cloud Computing
 
-✔ DevOps
+✔ Docker
+
+✔ Kubernetes
+
+✔ Jenkins
+
+✔ Terraform
+
+✔ CI/CD
 
 ✔ Data Structures & Algorithms
 ```
-````
-````markdown
 ---
 
 # 🌱 Currently Learning
 
 <div align="center">
 
-| 🚀 Domain | 📖 Technologies |
-|-----------|-----------------|
-| Backend Development | Spring Boot, Microservices |
-| Artificial Intelligence | LangChain, RAG, LLM Applications |
-| Blockchain | Solidity, Smart Contracts, Hardhat |
-| Cloud | AWS |
-| DevOps | Docker, Kubernetes, Terraform, GitHub Actions |
-| System Design | Distributed Systems, Scalability |
+| Domain | Technologies |
+|--------|--------------|
+| ☕ Backend | Spring Boot, Microservices |
+| 🤖 AI | LangChain, RAG, Agentic AI, LLM Applications |
+| ⛓ Blockchain | Solidity, Smart Contracts, Hardhat, Ganache |
+| ☁ Cloud | AWS |
+| ⚙ DevOps | Docker, Kubernetes, Terraform, Jenkins, GitHub Actions |
+| 🏗 System Design | Distributed Systems, Scalability, Design Patterns |
 
 </div>
 
@@ -394,88 +411,93 @@ Backend application for secure expense management using Spring Boot with JWT Aut
 
 # 🎯 2026 Goals
 
-- ✅ Crack a Software Development Engineer (SDE) role
-- ✅ Solve **500+ LeetCode** problems
-- ✅ Build production-ready AI applications
-- ✅ Master Spring Boot & Microservices
-- ✅ Learn Kubernetes & Terraform
-- ✅ Contribute to Open Source
-- ✅ Deploy scalable cloud-native applications
+- 🚀 Crack a Software Development Engineer (SDE) role
+- 💯 Solve 500+ LeetCode problems
+- ☕ Master Java & Spring Boot
+- 🤖 Build Production-Ready AI Applications
+- ⛓ Complete Blockchain Land Registry Project
+- ☁ Gain hands-on experience with AWS & Kubernetes
+- ⚙ Build complete CI/CD pipelines using Jenkins & GitHub Actions
+- 🌍 Contribute to Open Source Projects
 
 ---
 
 # 💼 Areas of Interest
 
-```text
-• Software Engineering
-• Backend Development
-• Artificial Intelligence
-• Blockchain Development
-• Cloud Computing
-• DevOps
-• Distributed Systems
-• REST API Development
-```
-
----
-
-# 📌 Open Source & Collaboration
-
-I enjoy building practical software solutions and continuously improving my
-engineering skills. I'm always interested in collaborating on projects related to:
-
-- 🤖 Artificial Intelligence
-- ☕ Java & Spring Boot
-- ⛓ Blockchain Applications
-- ☁ Cloud & DevOps
-- 🚀 Backend Engineering
-
----
-
-# 📬 Contact Me
-
 <div align="center">
 
-📧 **Email**
-
-**gangeshjaes53@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/gangesh-kumar-1601702b8/
-
-🐙 **GitHub**
-
-https://github.com/Gangeshh21
-
-💛 **LeetCode**
-
-https://leetcode.com/u/gangeshhh/
-
-💚 **GeeksforGeeks**
-
-https://www.geeksforgeeks.org/profile/gangeshf52e
+| Backend | AI | Blockchain | Cloud | DevOps |
+|---------|----|------------|-------|---------|
+| Spring Boot | LangChain | Solidity | AWS | Docker |
+| REST APIs | RAG | Ethereum | Cloud Native | Kubernetes |
+| Microservices | LLMs | Smart Contracts | Distributed Systems | Terraform |
 
 </div>
 
 ---
 
-# 💡 Philosophy
+# 📈 Development Philosophy
 
-> **"Keep learning. Keep building. Keep improving."**
+```text
+Learn → Build → Deploy → Improve → Repeat
+```
 
-I believe the best way to learn technology is by building real-world projects,
-writing clean code, and continuously improving through practice.
+I enjoy solving real-world problems through software engineering by combining
+backend development, artificial intelligence, blockchain, and cloud technologies.
+
+My goal is to build scalable, secure, and production-ready applications while
+continuously learning modern engineering practices.
+
+---
+
+# 🤝 Open to Collaborate On
+
+- 🤖 AI & GenAI Applications
+- ☕ Java / Spring Boot Projects
+- 🌐 Backend APIs
+- ⛓ Blockchain & Smart Contracts
+- ☁ Cloud Native Applications
+- ⚙ DevOps & CI/CD Projects
+- 🚀 Open Source Contributions
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:gangeshjaes53@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gangesh-kumar-1601702b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/gangeshhh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/gangeshf52e/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
 <div align="center">
 
-## Thanks for visiting my profile! 👋
+## 🚀 Thanks for Visiting My Profile!
 
-### ⭐ If you find my projects interesting, consider giving them a star.
+### ⭐ If you like my work, consider starring my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
-````

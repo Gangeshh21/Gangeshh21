@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Gangesh Kumar
 
-<!--
-**Gangeshh21/Gangeshh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science & Design Student
+💻 Interested in Software Engineering, AI, and DevOps
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages
+- Java
+- Python
+- SQL
+- JavaScript
+
+Frameworks
+- Spring Boot
+- React
+- FastAPI
+
+AI/ML
+- TensorFlow
+- LangChain
+- RAG
+- Gemini API
+
+Cloud & DevOps
+- Docker
+- AWS
+- Git
+- GitHub
+
+## Featured Projects
+
+🔹 AI Research Assistant
+RAG application using FastAPI + React + ChromaDB
+
+🔹 Blockchain Land Registry
+Final Year Project using Solidity + Hardhat
+
+🔹 Drowsiness Detection
+CNN + OpenCV real-time detection
+
+## LeetCode
+
+Solved XX+ Problems
+
+## Contact
+
+LinkedIn:
+Portfolio:
+Email:
